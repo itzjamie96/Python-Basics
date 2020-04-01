@@ -1,0 +1,19 @@
+Constants
+- fixed values that do not change
+
+Reserved Words
+- Special words that you can't use as variables
+
+Variables
+- named place in the memory to store data
+- can retrieve the data using the variable name
+- can change the contents of variable
+- the reason why it's called a "variable"
+
+Variable Name Rules
+- Must start with a letter or underscore
+- Case sensitive
+
+Mnemonic Variable Names
+- Mnemonic = memory aid
+

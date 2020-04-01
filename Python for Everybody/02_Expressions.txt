@@ -1,0 +1,34 @@
+Operator Precedence
+1. Parenthesis
+2. Power
+3. Multiplication
+4. Addition
+5. Left to right
+
+Type
+- type() : returns the type of the variable
+
+Type Conversions
+- Cast to change to another form
+ex) print(float(99)+100)
+> 199.0
+
+Integer Division
+- Python 2와 3의 가장 큰 차이가 Integer Division에서 나타남
+>>> print(10/2)
+5.0
+>>> print(9/2)
+4.5
+>>> print(99/100)
+0.99
+-> 전에는 걍 다 내려서 결과나 나왔었다고 한다.
+
+String Conversions
+sval = '123'
+ival = int(sval)
+print(ival+1) => 124
+
+
+User Input
+input() : waits for user to type in sth
+- it's always a String
